@@ -37,7 +37,18 @@ http://localhost:5000
 
 ### 4. Open the tirreno dashboard
 http://localhost:8585
+### screenshots 
+### Users Dashboard
+![Dashboard](screenshots/dashboard.png)
 
+### Users List
+![Users](screenshots/users.png)
+
+### IP addresses
+![Blacklist](screenshots/IPAddresses.png)
+
+### Custom Rules
+![Rules](screenshots/rules.png)
 
 ## What I Learned
 
